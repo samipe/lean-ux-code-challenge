@@ -4,16 +4,16 @@ The given task is to create a website with functionalities showcased in the prov
 ## How to return the project
 Your application can be returned as a functioning hosted website, as a Git repository, or as static files. In case you return it as a hosted website, be sure to also provide the source code. If you only return the source files, the project must have a readme-file that explains how to open or start it. When you are done, send the submission to your contact person at Siili. 
 ## Evaluation criteria
-- Clean code
-- Working functionalities as displayed in the video
-- Accessibility
-- Semantic HTML
-- Responsiveness
-- State/data handling
+- clean code
+- working functionalities as displayed in the video
+- accessibility
+- semantic HTML
+- responsiveness
+- state/data handling
 
  **Bonus points**
-- Version control
-- Design and visuals
+- version control
+- design and visuals
 ## Please note
 - The end result does not need to look like our demo, but it is ok if it does. You may fully adapt your own styles, as long as it suits the task given. Impress us!
 - The application in the video uses the font Helvetica Neue, but you may select any font you prefer.
