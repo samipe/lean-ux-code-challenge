@@ -1,6 +1,6 @@
 # Lean UX Code Challenge
 ## Task
-The given task is to create a website with functionalities showcased in the provided video. You can choose any technical stack you prefer. The chosen stack is not a criteria for evaluation, but be prepared to explain and discuss about your choices. Please use the hotels.json and images provided in the assets-directory. You may change the syntax or filename of the file, but do not alter any keys or values. Consider the file as a mock API. The expected time to complete the task is 1-3 working days.
+The given task is to create a website with functionalities showcased in the provided video. You can choose any technical stack you prefer. The chosen stack is not a criteria for evaluation, but be prepared to explain and discuss about your choices. Please use the hotels.json and images provided in the assets-directory. You may change the syntax or filename of the file, but otherwise the data should be used as-is. Consider the file as a mock API. The expected time to complete the task is 1-3 working days.
 ## How to return the project
 Your application can be returned as a functioning hosted website, as a Git repository, or as static files. In case you return it as a hosted website, be sure to also provide the source code. If you only return the source files, the project must have a readme-file that explains how to open or start it. When you are done, send the submission to your contact person at Siili. 
 ## Evaluation criteria
@@ -19,5 +19,6 @@ Your application can be returned as a functioning hosted website, as a Git repos
 - The application in the video uses the font Helvetica Neue, but you may select any font you prefer.
 - We do not evaluate the stack you used, but prepare to discuss about your choices.
 - The form doesn't actually need to submit/POST any data.
+- If you find any usability/UX issues in the video of the functionalities, you are welcome to fix them.
 
 **Good luck and have fun!**
